@@ -72,12 +72,26 @@ ul{
   flex-basis: 50%;
   font-size:1.4rem;
 }
+
+.main__section-logo{
+  max-width:120px;
+}
+
+.main__section-title--small{
+  font-size:1rem;
+}
+
 .main__section-content{
   flex-basis: 25%;
   font-size:0.8rem;
   line-height:1.4;
+  font-weight:700;
 }
 
+.main__section-content--end{
+  display:flex;
+  align-items:flex-end;
+}
 
 
 /* ///////////////// header /////////////// */
@@ -144,7 +158,13 @@ ul{
   margin-right:2rem;
 }
 
+@media screen and (max-width:720px) {
+  .footer__section:not(:last-child){
+    margin-right:0;
+  }
+}
+
 .footer__section-content{
-  font-size:0.8rem;
+  font-size:0.6rem;
   line-height:1.4;
 }
