@@ -3,6 +3,8 @@
 <!-- A one sentence description of the project or assignment -->
 Assignment repo for assignment #2: Making and Breaking the Grid
 
+![Style guide with design proposal](design/output--grey/06__remix.png)
+
 <!-- It is good practice to add an about or summary -->
 ## About
 
