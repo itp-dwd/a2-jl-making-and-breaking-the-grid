@@ -7,6 +7,8 @@ Assignment repo for assignment #2: Making and Breaking the Grid
 
 ![Style guide with design proposal](design/output--grey/06__remix.png)
 
+[Design on Figma](https://www.figma.com/file/fBpxs5kIqh9FmVElVCxhy8/design-spec)
+
 <!-- It is good practice to add an about or summary -->
 ## About
 
